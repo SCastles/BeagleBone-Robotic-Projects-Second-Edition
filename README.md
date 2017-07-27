@@ -25,14 +25,13 @@ Serial.println(uS3 / US_ROUNDTRIP_CM);
 ```
 
 
-Xfce sudo apt-get install xfce4
-WinScp https://winscp.net/eng/index.php
-Putty http://www.putty.org/
-VNC server sudo apt-get install tightvncserver
-Real VNC https://www.realvnc.com/
-
-Emacs sudo apt-get install emacs
-build-essential sudo apt-get install build-essential
+* Xfce  ```sh sudo apt-get install xfce4```
+* [WinScp](https://winscp.net/eng/index.php)
+* [Putty](http://www.putty.org/)
+* VNC server ```sh sudo apt-get install tightvncserver ```
+* [Real VNC](https://www.realvnc.com/)
+* Emacs ```sh sudo apt-get install emacs```
+* build-essential ```sh sudo apt-get install build-essential```
 
 ## Related Products
 * [BeagleBone Robotic Projects](https://www.packtpub.com/hardware-and-creative/beaglebone-robotic-projects?utm_source=github&utm_medium=repository&utm_campaign=9781783559329)
